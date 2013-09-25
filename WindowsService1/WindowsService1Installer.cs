@@ -18,8 +18,8 @@ namespace WindowsService1
             ServiceInstaller serviceInstaller = new ServiceInstaller();
 
             //# Service Account Information
-            serviceProcessInstaller.Account = ServiceAccount.LocalSystem;
-            serviceProcessInstaller.Username = null;
+            serviceProcessInstaller.Account = ServiceAccount.User;
+            serviceProcessInstaller.Username = System.Security.Principal.WindowsIdentity.GetCurrent().Name;
             serviceProcessInstaller.Password = null;
 
             //# Service Information
