@@ -1,0 +1,5 @@
+D:\temp\WindowsFormsApplication1\WindowsService1\bin\Debug\WindowsService1.exe
+D:\temp\WindowsFormsApplication1\WindowsService1\bin\Debug\WindowsService1.pdb
+D:\temp\WindowsFormsApplication1\WindowsService1\obj\Debug\WindowsService1.csprojResolveAssemblyReference.cache
+D:\temp\WindowsFormsApplication1\WindowsService1\obj\Debug\WindowsService1.exe
+D:\temp\WindowsFormsApplication1\WindowsService1\obj\Debug\WindowsService1.pdb
