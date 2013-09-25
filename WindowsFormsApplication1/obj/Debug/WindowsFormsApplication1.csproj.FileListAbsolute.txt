@@ -6,3 +6,13 @@ D:\temp\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsForms
 D:\temp\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
 D:\temp\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 D:\temp\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\e.fauquembergue\Source\Repos\firstgitrepo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\e.fauquembergue\Source\Repos\firstgitrepo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\e.fauquembergue\Source\Repos\firstgitrepo\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\e.fauquembergue\Source\Repos\firstgitrepo\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\e.fauquembergue\Source\Repos\firstgitrepo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\e.fauquembergue\Source\Repos\firstgitrepo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\e.fauquembergue\Source\Repos\firstgitrepo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\e.fauquembergue\Source\Repos\firstgitrepo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\e.fauquembergue\Source\Repos\firstgitrepo\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\e.fauquembergue\Source\Repos\firstgitrepo\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb

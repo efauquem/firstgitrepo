@@ -18,6 +18,9 @@ namespace WindowsService1
 
         protected override void OnStart(string[] args)
         {
+
+            ClassLibrary1.Printer p = new ClassLibrary1.Printer();
+            p.Print("From Windows Service");
         }
 
         protected override void OnStop()

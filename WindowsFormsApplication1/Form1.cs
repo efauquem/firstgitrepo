@@ -181,6 +181,12 @@ namespace WindowsFormsApplication1
             
         }
 
+        private void button5_Click(object sender, EventArgs e)
+        {
+            var printer = new ClassLibrary1.Printer();
+            printer.Print("From WinForms");
+        }
+
         
     }
 }
