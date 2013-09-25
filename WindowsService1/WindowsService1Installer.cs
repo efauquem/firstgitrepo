@@ -29,7 +29,7 @@ namespace WindowsService1
             //# This must be identical to the WindowsService.ServiceBase name
             //# set in the constructor of WindowsService.cs
             serviceInstaller.ServiceName = "NovediaPrinterService";
-
+          
             this.Installers.Add(serviceProcessInstaller);
             this.Installers.Add(serviceInstaller);
         }
